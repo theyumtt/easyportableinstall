@@ -13,3 +13,5 @@ Taşınabilir (.exe) dosyalarınızı `C:\EasyInstalled` dizini altında organiz
 *Onay: Program size dosyanın nereye kopyalanacağını gösterir. Onay vermek için "e" tuşuna basın.
 
 *Kısayol: Kurulum bittiğinde masaüstüne kısayol isteyip istemediğinizi sorar. Onaylarsanız kısayol anında oluşturulur. 
+
+<img width="467" height="190" alt="resim" src="https://github.com/user-attachments/assets/14654732-6c1d-4398-8408-2e43c1969ce1" />
