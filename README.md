@@ -1,10 +1,10 @@
 # Easy Portable Installer (EPI)
 
-Taşınabilir (.exe) dosyalarınızı `C:\EasyInstalled` dizini altında organize eden ve masaüstü kısayolu oluşturan akıllı bir yardımcı araçtır.
+Taşınabilir (.exe, .AppImage) dosyalarınızı `C:\EasyInstalled`, `/home/user/EasyInstalled` dizileri altında organize eden ve masaüstü kısayolu oluşturan akıllı bir yardımcı araçtır.
 
 ### Kullanım Adımları 
 
-*Dil Seçimi: Program ilk açıldığında size bir kez dil sorar. Seçtiğiniz dil C:\EasyInstalled\mem\settings.json içine kaydedilir ve bir sonraki açılışta tekrar sorulmaz.
+*Dil Seçimi: Program ilk açıldığında size bir kez dil sorar. Seçtiğiniz dil `C:\EasyInstalled\mem\settings.json`, `/home/user/EasyInstalled/mem\settings.json` içine kaydedilir ve bir sonraki açılışta tekrar sorulmaz.
 
 *Program Kurma: Ana menüden "Yeni Portable Program Kur" (1) seçeneğini seçin.
 
@@ -14,7 +14,8 @@ Taşınabilir (.exe) dosyalarınızı `C:\EasyInstalled` dizini altında organiz
 
 *Kısayol: Kurulum bittiğinde masaüstüne kısayol isteyip istemediğinizi sorar. Onaylarsanız kısayol anında oluşturulur. 
 
-<img width="467" height="190" alt="resim" src="https://github.com/user-attachments/assets/14654732-6c1d-4398-8408-2e43c1969ce1" />,
+<img width="419" height="219" alt="resim" src="https://github.com/user-attachments/assets/8d3a61f9-7aef-4ce1-a59b-2b93a50b83d8" />
+
 
 
 ### Bilgilendirme
