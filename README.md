@@ -14,7 +14,7 @@ Taşınabilir (.exe, .AppImage) dosyalarınızı `C:\EasyInstalled`, `/home/user
 
 *Kısayol: Kurulum bittiğinde masaüstüne kısayol isteyip istemediğinizi sorar. Onaylarsanız kısayol anında oluşturulur. 
 
-<img width="750" height="572" alt="Ekran Görüntüsü - 2026-02-12 19-44-12" src="https://github.com/user-attachments/assets/f7b111c9-3951-479d-9d14-029423c80788" />
+<img width="750" height="572" alt="epi-linux" src="https://github.com/user-attachments/assets/f2223222-50c5-4514-a9db-295c8d71676a" />
 
 
 
