@@ -14,7 +14,7 @@ Taşınabilir (.exe, .AppImage) dosyalarınızı `C:\EasyInstalled`, `/home/user
 
 *Kısayol: Kurulum bittiğinde masaüstüne kısayol isteyip istemediğinizi sorar. Onaylarsanız kısayol anında oluşturulur. 
 
-<img width="419" height="219" alt="resim" src="https://github.com/user-attachments/assets/8d3a61f9-7aef-4ce1-a59b-2b93a50b83d8" />
+<img width="750" height="572" alt="Ekran Görüntüsü - 2026-02-12 19-44-12" src="https://github.com/user-attachments/assets/f7b111c9-3951-479d-9d14-029423c80788" />
 
 
 
